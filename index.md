@@ -1,4 +1,6 @@
-# Welcome
+---
+layout: home
+---
 
 Hi, I am Felix Bernhardt (flxbe). I am currently studying applied mathematics
 in Magdeburg, Germany. In my free time I like to work on small pet projects,
